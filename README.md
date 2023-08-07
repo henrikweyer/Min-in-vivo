@@ -1,4 +1,5 @@
 # Min-in-vivo
+[![DOI](https://zenodo.org/badge/675778595.svg)](https://zenodo.org/badge/latestdoi/675778595)
 This repository contains supplementary simulation code for the project
 
 **Robust and resource-optimal dynamic pattern formation of Min proteins _in vivo_**
