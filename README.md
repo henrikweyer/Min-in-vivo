@@ -17,7 +17,7 @@ _SI/S12-LSA-robustnessSweep_ Fig. S12
 
 _SI/S13-pfOnset-classification_ Fig. S13
 
-_SI/S15_19-patternTypes-parameterSweeps_ Figs. S15 - S19
+_SI/S15_19-patternTypes-parameterSweeps_ Figs. S14 - S19
 
 ## Comsol simulations
 Large-scale simulations are performed in the finite-element software Comsol. Exemplary setup files are provided that contain the settings to perform the simulations in Comsol 6.0/6.1.
