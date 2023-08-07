@@ -25,6 +25,6 @@ Large-scale simulations are performed in the finite-element software Comsol. Exe
 The simulation results are exported in txt files which are converted to hdf5 files and analyzed in the provided Mathematica notebooks.
 
 ## Mathematica notebooks
-The Mathematica notebooks only reference to Comsol2Mathematica2hdf5.nb which is assumed to be in the same folder as the notebook. 
-Mathematica is used to analyze the Comsol simulations but also to perform independent simulations in a reduced 1+1D geometry and a linear stability analysis.
+The Mathematica notebooks reference to Comsol2Mathematica2hdf5.nb which is assumed to be in the same folder as the referencing notebook.
+Mathematica is used to analyze the Comsol simulations, and it is used to perform simulations in the reduced 1+1D geometry and the linear stability analysis.
 
